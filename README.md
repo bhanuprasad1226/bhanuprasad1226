@@ -2,13 +2,16 @@
 **A passionate software engineer || Data Structures & Algorithms || web development**
 
 Email Me 👉 ✉️ **bhanuprasadnellutla1@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+## 💡 About Me
 
-- 🔭 **I’m currently working on:** machine learning projects
-- 🌱 **I’m currently learning:** React
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** bhanuprasadnellutla1@gmail.com
-- 😄 **Pronouns:** prasad
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 👨‍💻 Proficient in  **C++**, **Python**, **Java**, **JavaScript**
+- 🎨 Frontend: **HTML**, **CSS**, **Bootstrap**, **React JS**
+- ⚙️ Backend: **Node js**,**Rest APIs**
+- 🧠 Libraries: **NumPy**, **Pandas**, **OpenCV**
+- ☁️ Databases & Cloud: **MySQL**, **MongoDB**
+- 📘 Courses: **Data Structures, Algorithms, OOP, Databases, Software Engineering, Data Science**
+
+---
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhanuprasad1226) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhanuprasadnellutla1@gmail.com) 
 
