@@ -25,8 +25,6 @@ Email Me 👉 ✉️ **bhanuprasadnellutla1@gmail.com** For Collaboration/Projec
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/sunny_2003_24)
 
 
-### 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/bhanuprasad1226?theme=dark&ext=contest)
 
 
 
